@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div>
-      <h1>holi bb</h1>
+      <h1>holi </h1>
     </div>
   );
 }
